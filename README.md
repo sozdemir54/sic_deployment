@@ -1,4 +1,4 @@
 # sic_deployment
 
 
-### Deneme 1-2
+### It includes deep learning jupyter code and deployment related codes in.py format.
